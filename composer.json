@@ -4,6 +4,7 @@
             "Leilao\\": "src/"
         }
     },
+<<<<<<< HEAD
     "require": {
         "php": "^7.3",
         "ext-pdo": "*",
@@ -11,5 +12,9 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8"
+=======
+    "require-dev": {
+        "phpunit/phpunit": "9"
+>>>>>>> e9397e96b2d5144cb044ed45cad9602631e49ee0
     }
 }
